@@ -496,13 +496,10 @@ input[type="submit"]{
     }
     input[type="text"],
     input[type="email"]{
-        width: 100%;
-        max-width: 500px;
-    
+        max-width: 100%;    
     }
     textarea{
-       width: 100%;
-       max-width: 500px;
+       max-width: 100%;
     }
     
    /*FOTTER*/
