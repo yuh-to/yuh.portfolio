@@ -275,13 +275,13 @@
 }
 
 .contact-form  {
-    text-align: center;  
+    text-align: center; 
 }
 
 .name1 , .email1, .message1 {
     margin-bottom: 8px;
     text-align: left;
-    
+    display: inline-block;
 }
 
 .contact-form label {
