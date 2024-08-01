@@ -69,6 +69,7 @@
     }
     #home{
         display: block;
+        background-image:url(..main-bg.png);
         margin-top: 40px;
         min-height:100vh;
     }
