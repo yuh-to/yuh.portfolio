@@ -281,13 +281,14 @@
 .name1 , .email1, .message1 {
     margin-bottom: 8px;
     text-align: left;
-      display: inline-block;
+    display: inline-block;
 }
 
 .contact-form label {
     font-size:1.125rem;
     margin-bottom: 8px;
       display: block;
+    margin: auto;
 }
 input[type="text"],
 input[type="email"],
