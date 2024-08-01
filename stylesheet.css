@@ -382,7 +382,7 @@ input[type="submit"]{
 
 /*モバイル版
 ---------------------------*/
-@media(max-width: 600px) {
+@media(max-width: 500px) {
    
     /*HEADER*/
         .main-nav{
@@ -497,12 +497,12 @@ input[type="submit"]{
     input[type="text"],
     input[type="email"]{
         width: 100%;
-        max-width: 600px;
+        max-width: 500px;
     
     }
     textarea{
        width: 100%;
-       max-width: 600px;
+       max-width: 500px;
     }
     
    /*FOTTER*/
