@@ -69,7 +69,7 @@
     }
     #home{
         display: block;
-        background-image:url(..main-bg.png);
+        background-image:url(.main-bg.png);
         margin-top: 40px;
         min-height:100vh;
     }
@@ -300,12 +300,14 @@ textarea{
 
 input[type="text"],
 input[type="email"]{
+    max-width: 100%;
     width: 796px;
     
 
 }
 textarea{
-   width: 796px;
+   max-width: 100%;
+    width: 796px;
    height: 258px;
 }
 
