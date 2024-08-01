@@ -300,14 +300,12 @@ textarea{
 
 input[type="text"],
 input[type="email"]{
-     width: 100%;
-     max-width: 796px;
+    width: 796px;
     
 
 }
 textarea{
-   width: 100%;
-    max-width: 796px;
+  width: 796px;
    height: 258px;
 }
 
