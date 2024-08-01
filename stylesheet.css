@@ -274,14 +274,12 @@
     margin-bottom: 16px;
 }
 
-.contact-form  {
-   text-align: center;
-}
+
 
 .name1 , .email1, .message1 {
     margin-bottom: 8px;
     text-align: left;
-    display: block;
+    display: inline-block;
 }
 
 .contact-form label {
@@ -289,6 +287,10 @@
     margin-bottom: 8px;
       display: block;
 }
+.contact-form  {
+   text-align: center;
+}
+
 input[type="text"],
 input[type="email"],
 textarea{
