@@ -70,7 +70,6 @@
     #home{
         display: block;
         margin-top: 40px;
-        background-image:url(../images/main-bg.png);
         min-height:100vh;
     }
 
