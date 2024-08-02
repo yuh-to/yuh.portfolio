@@ -279,7 +279,7 @@
     display: block;
 }
 
-.name1 , .email1, .message1 {
+.name1, .email1, .message1 {
     margin-bottom: 8px;
     display: inline-block;
 }
@@ -301,7 +301,8 @@ textarea{
 }
 
 input[type="text"],
-input[type="email"]{
+input[type="email"],
+textarea{
     width: 100%;
     max-width: 796px;
     
