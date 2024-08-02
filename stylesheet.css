@@ -289,7 +289,7 @@
     display: inline-block;
 }
 .contact-form  {
-   text-align: center;
+   margin: 0 auto;
    display: inline-block;
 }
 
