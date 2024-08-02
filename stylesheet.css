@@ -274,6 +274,10 @@
     margin-bottom: 16px;
 }
 
+form {
+    text-align: center;
+}
+
 form div  {
    margin-bottom: 16px;
 }
