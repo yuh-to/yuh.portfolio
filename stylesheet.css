@@ -281,6 +281,7 @@ form div  {
  label {
     font-size:1.125rem;
     margin-bottom: 16px;
+     text-align: left;
     display: block;
 }
 
