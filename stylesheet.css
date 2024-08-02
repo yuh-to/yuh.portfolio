@@ -286,6 +286,7 @@
     font-size:1.125rem;
     margin-bottom: 8px;
     text-align: left;
+     display: inline-block;
 }
 .contact-form  {
    text-align: center;
