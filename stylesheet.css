@@ -274,7 +274,10 @@
     margin-bottom: 16px;
 }
 
-
+.contact-form  {
+   text-align: center;
+   display: block;
+}
 
 .name1 , .email1, .message1 {
     margin-bottom: 8px;
@@ -288,10 +291,7 @@
     text-align: left;
     display: inline-block;
 }
-.contact-form  {
-   text-align: center;
-   display: block;
-}
+
 
 input[type="text"],
 input[type="email"],
