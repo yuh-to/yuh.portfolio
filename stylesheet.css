@@ -276,20 +276,19 @@
 
 .contact-form  {
    text-align: center;
-   display: block;
 }
 
 .name1 , .email1, .message1 {
     margin-bottom: 8px;
-    text-align: center;
+    text-align: left;
+    display:inline-block;
    
 }
 
 .contact-form label {
     font-size:1.125rem;
     margin-bottom: 8px;
-    text-align: left;
-    display: inline-block;
+    display: block;
 }
 
 
