@@ -276,6 +276,7 @@
 
 form div  {
    margin-bottom: 16px;
+    text-align: center; 
     display: block;
 }
 
