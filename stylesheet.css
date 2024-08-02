@@ -503,8 +503,6 @@ input[type="submit"]{
     /*フォーム*/
 
     .contact-form {
-        display: flex;
-        flex-direction: column;
         text-align: center;
     }
     input[type="text"],
