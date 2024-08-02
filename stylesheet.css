@@ -286,11 +286,11 @@
     font-size:1.125rem;
     margin-bottom: 8px;
     text-align: center;
-    display: inline-block;
+    display: block;
 }
 .contact-form  {
    text-align: center;
-   display: inline-block;
+   display: block;
 }
 
 input[type="text"],
