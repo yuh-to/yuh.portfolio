@@ -274,20 +274,13 @@
     margin-bottom: 16px;
 }
 
-.contact-form  {
-   text-align: center;
+form div  {
+   margin-bottom: 16px;
 }
 
-.name1, .email1, .message1 {
-    margin-bottom: 8px;
-    text-align: center;
-    display: inline-block;
-}
-
-.contact-form label {
+ label {
     font-size:1.125rem;
     margin-bottom: 8px;
-    text-align: left;
     display: block;
 }
 
