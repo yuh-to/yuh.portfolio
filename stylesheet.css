@@ -276,15 +276,16 @@
 
 
 
-.name1 , .email1, .messeage1 {
+.name1 , .email1, .message1 {
     margin-bottom: 8px;
     text-align: left;
-    display: inline-block;
+    display: in-lineblock;
 }
 
 .contact-form label {
     font-size:1.125rem;
     margin-bottom: 8px;
+    text-align: center;
     display: inline-block;
 }
 .contact-form  {
