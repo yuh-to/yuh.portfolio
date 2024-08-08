@@ -385,7 +385,7 @@ input[type="submit"]{
 
 /*モバイル版
 ---------------------------*/
-@media(max-width: 400px) {
+@media(max-width: 600px) {
    
     /*HEADER*/
         .main-nav{
