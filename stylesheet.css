@@ -71,7 +71,7 @@
         display: block;
         background-image:url(https://github.com/yuh-to/yuh.portfolio/blob/main/main-bg.png?raw=true);
         margin-top: 40px;
-        aspect-radio: 4/3;
+        min-height: 100vh;
     }
 
 /*ヘッダー線*/
