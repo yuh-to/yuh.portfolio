@@ -400,7 +400,7 @@ input[type="submit"]{
         }
         #home {
             margin-top: 20px;
-        
+           max-widhth: 100%;
         }
         .page-header {
             flex-direction: column;
