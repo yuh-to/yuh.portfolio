@@ -385,7 +385,7 @@ input[type="submit"]{
 
 /*モバイル版
 ---------------------------*/
-@media(max-width: 500px) {
+@media(max-width: 400px) {
    
     /*HEADER*/
         .main-nav{
@@ -400,6 +400,7 @@ input[type="submit"]{
         }
         #home {
             margin-top: 20px;
+            
         }
         .page-header {
             flex-direction: column;
