@@ -401,6 +401,7 @@ input[type="submit"]{
         #home {
             margin-top: 20px;
            min-height: 80vh;
+            max-width: 100%;
         }
         .page-header {
             flex-direction: column;
